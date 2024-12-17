@@ -1,0 +1,37 @@
+      .........git commands............
+
+      
+echo "# MESIYA05" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MESIYA05/MESIYA05.git
+git push -u origin main
+
+
+
+
+
+git remote add origin https://github.com/MESIYA05/MESIYA05.git
+git branch -M main
+git push -u origin main
+
+
+
+
+..........vs code django commands .........
+python --version  ....check python version
+pip install pipenv ....install virutual environment.....
+pipenv shell ....activate shell....
+pipenv --venv ...check  current virutual environment.....
+pip install django 
+django-admin .....django all comands display.......
+django-admin startproject projectname .....create project.....
+django-admin startapp appname   ....createapp.....
+python manage.py runserver ......run server.....
+python manage.py runserver 8003 ..... change port number.....
+python manage.py createsuperuser
+pip install mysqlclient 
+pip install yellow
+
