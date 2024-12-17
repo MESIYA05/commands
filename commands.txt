@@ -9,6 +9,10 @@ git branch -M main
 git remote add origin https://github.com/MESIYA05/MESIYA05.git
 git push -u origin main
 
+git add commands.txt
+git add .       .......add all files....
+git commit -m "first commit"
+git push orgin main 
 
 
 
