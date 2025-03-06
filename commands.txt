@@ -37,7 +37,7 @@ python manage.py runserver ......run server.....
 python manage.py runserver 8003 ..... change port number.....
 python manage.py createsuperuser
 pip install mysqlclient 
-pip install yellow
+pip install pillow
 ......end django commands.....
 
 
@@ -45,7 +45,30 @@ pip install yellow
 npm create vite@latest
 project name
 pakage name
+
+
 react
 javascript
 npm i .....install dependies..
 npm run dev .... run the server
+
+
+..........django restframework.....
+pip install djangorestframework
+INSTALLED_APPS = [
+    'rest_framework',
+    'your_app',  # Your Django app name
+    'corsheaders',
+]
+
+pip install django-cors-headers
+
+
+MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
+    'django.middleware.common.CommonMiddleware',
+]
+
+CORS_ALLOW_ALL_ORIGINS = True  # Allow all domains (for development only)
+
+.......................end...................................
