@@ -72,3 +72,18 @@ MIDDLEWARE = [
 CORS_ALLOW_ALL_ORIGINS = True  # Allow all domains (for development only)
 
 .......................end...................................
+................... django............
+mkdir djangoProject
+cd djangoProject
+python -m venv .venv
+.venv\Scripts\activate
+pip install django
+python -m django --version
+django-admin startproject project
+cd project
+python manage.py runserver
+pip install pillow
+pip install mysqlclient or pip install pymysql
+python manage.py makemigrations
+python manage.py migrate
+........end..........
