@@ -94,7 +94,7 @@ javascript
 React Js
 ..........................................................
 Website Templates={Bootstrapmade,ThemeForest}.
-library for Css & Component = {Material UI,Bootstrap,Tailwand,React Spring}.
+library for Css & Component = {Material UI,Bootstrap,Tailwind,React Spring}.
 Animations = {AOS and npm command =  npm install aos --save, Framer Motion and npm command = npm i framer-motion, GSap and npm command = npm install gsap}.
 icons = {Font Awasome and npm command = npm install --save @fortawesome/fontawesome-free , 
 npm install --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/free-brands-svg-icons,
