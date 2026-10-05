@@ -99,5 +99,5 @@ Animations = {AOS and npm command =  npm install aos --save, Framer Motion and n
 icons = {Font Awasome and npm command = npm install --save @fortawesome/fontawesome-free , 
 npm install --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/free-brands-svg-icons,
 React icons and npm commend = npm i react-icons , Lucide icons and npm command =  npm i lucide-react}.
-**Chart** = {ApexChart and npm command = npm install apexcharts --save }.
-
+Charts  = {ApexChart and npm command = npm install apexcharts --save }.
+...........................end....................................
