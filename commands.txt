@@ -101,3 +101,10 @@ npm install --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg
 React icons and npm commend = npm i react-icons , Lucide icons and npm command =  npm i lucide-react}.
 Charts  = {ApexChart and npm command = npm install apexcharts --save }.
 ...........................end....................................
+..........................AI Agents...............................
+Google With Anyigravity
+claude With  Claude Code
+chatgpt With codex
+Github With copilet
+........................end......................................
+
