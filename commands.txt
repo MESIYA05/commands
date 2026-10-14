@@ -16,6 +16,11 @@ git push orgin main
 
 
 git diff ---This shows a line-by-line breakdown. Lines starting with a green + are what you added; lines with a red - are what you removed.
+git branch --show a all branch names.
+git checkout branchname or git switch branchname ----switch a branch to branch. 
+git checkout -b branchname -----create and switch to a branch.
+git branch -D branchname ----delete a branch name in locally.
+git push -delete origin branch name ---delete a push code branch.
 
 git remote add origin https://github.com/MESIYA05/MESIYA05.git
 git branch -M main
