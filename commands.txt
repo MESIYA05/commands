@@ -112,4 +112,19 @@ claude With  Claude Code
 chatgpt With codex
 Github With copilet
 ........................end......................................
+.....................PostgreSql&Express-js&React-Js&Node-Js....................................
+.....frontend....
+npm create vite@latest
+project name
+pakage name
+react
+javascript
+npm i .....install dependies..
+npm install axios
+npm run dev .... run the server
+....backend....
+npm init -y
+npm install express pg dotenv cors
+npm install --save-dev nodemon
+...........................end...........................................................
 
